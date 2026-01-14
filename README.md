@@ -1,0 +1,1 @@
+# indatastar-styled-collapsible-view
