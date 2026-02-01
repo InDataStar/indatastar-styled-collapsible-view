@@ -31,7 +31,7 @@ yarn add indatastar-styled-collapsible-view
 ```
 import React from "react";
 import { Text, View, Button, Image } from "react-native";
-import { CollapsibleView } from "rn-collapsible-view";
+import { CollapsibleView } from "indatastar-styled-collapsible-view";
 
 export default function App() {
   return (
